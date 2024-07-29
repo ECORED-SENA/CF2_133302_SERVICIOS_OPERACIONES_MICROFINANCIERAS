@@ -85,7 +85,7 @@
     p(data-aos="fade-down") Las características de cada uno, dependen en gran medida de las políticas de cada entidad, sin embargo, a nivel general se encuentran:
 
     TabsA.color-acento-botones.mb-5(data-aos="fade-right")
-      .tarjeta.color-acento-botones--borde.p-4(titulo="microcrédito") 
+      .tarjeta.color-acento-botones--borde.p-4(titulo="Microcrédito") 
         img.img-t.mb-4(src='@/assets/curso/temas/10.svg', alt='') 
         h5 El microcrédito
         ul.lista-ul.fa-ul
@@ -231,12 +231,12 @@
         ul.lista-ul.fa-ul
           li 
             i.fas.fa-check-circle.color2
-            span Se pueden realizar transacciones como avances de tarjeta a cuentas de ahorro o corriente, abonos a créditos y recarga de celulares. 
+            span Se pueden realizar transacciones como avances de tarjeta a cuentas de ahorro o corriente, abonos a créditos y recargas de celulares. 
 
       .tarjeta.color-acento-botones--borde.p-4(titulo="PSE (Pagos Seguros en Línea)") 
         img.img-t.mb-4(src='@/assets/curso/temas/16.png', alt='') 
         h5 PSE (Pagos Seguros en Línea)
-        p Como lo dicen en el Colegio Agustiniano en 2016, en su instructivo PSE Sistema centralizado y estandarizado, desarrollado por ACH Colombia, las empresas brindan a los usuarios la posibilidad de realizar sus pagos y/o compras a través de Internet, debitando los recursos de la entidad financiera donde tenga su dinero y depositándolos en la cuenta de las empresas.
+        p Como lo dijeron en el Colegio Agustiniano en 2016, en su instructivo PSE Sistema centralizado y estandarizado, desarrollado por ACH Colombia, las empresas brindan a los usuarios la posibilidad de realizar sus pagos y/o compras a través de Internet, debitando los recursos de la entidad financiera donde tenga su dinero y depositándolos en la cuenta de las empresas.
         ul.lista-ul.fa-ul
           li 
             i.fas.fa-check-circle.color2

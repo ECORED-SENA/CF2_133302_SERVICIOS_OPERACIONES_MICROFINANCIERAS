@@ -57,7 +57,7 @@
             #t_9_3.titulo-segundo.color-acento-contenido(data-aos="zoom-in-left")
               h2 9.3 Anualidades 
 
-            p(data-aos="fade-down") Significa pagos realizados a intervalos iguales de tiempo, que pueden ser anuales, trimestrales, mensuales quincenales, diarios, etc.
+            p(data-aos="fade-down") Significa pagos realizados a intervalos iguales de tiempo, que pueden ser anuales, trimestrales, mensuales, quincenales, diarios, etc.
 
             p(data-aos="fade-down") Existen cinco tipos de anualidades:
 
@@ -125,9 +125,9 @@
               img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/96.svg', alt='')             
           .col.p-0
             .bg8.p-3.h-100.j 
-              p(data-aos="fade-down").mb-0 La tasa de interés nominal es una tasa expresada anualmente, genera intereses en varias ocasiones a la periodicidad que aplica, esta tasa no es exacta como la efectiva, por que la tasa nominal es la teoría, no analiza si el usuario tiene que pagar gastos y otros costos.
+              p(data-aos="fade-down").mb-0 La tasa de interés nominal es una tasa expresada anualmente, genera intereses en varias ocasiones a la periodicidad que aplica, esta tasa no es exacta como la efectiva, porque la tasa nominal es la teoría, no analiza si el usuario tiene que pagar gastos y otros costos.
                         
-        p(data-aos="fade-down") si el usuario tiene que pagar gastos y otros costos.
+        p(data-aos="fade-down") Si el usuario tiene que pagar gastos y otros costos.
 
         p(data-aos="fade-down") La tasa periódica es la tasa que corresponde al período determinado (% por día, mes, bimestre, trimestre, semestre, año).
 
@@ -195,7 +195,7 @@
       .col
         p(data-aos="fade-down") Es importante observar la periodicidad en la cual generará intereses, por ejemplo, la tasa efectiva es del 2 % mensual y la quiero convertir a nominal mensual, simplemente habría que multiplicar por 12, por lo cual la tasa efectiva mensual convertida a nominal mensual arroja el 24 % (2 % * 12 meses), se multiplica por doce porque la nominal por defecto es anual, la aclaración de mensual es para indicar que capitaliza intereses de forma mensual. El inconveniente se da cuando la periodicidad no es la misma.
 
-        p(data-aos="fade-down") Es importante observar la periodicidad en Ejemplo de conversión de tasa efectiva a tasa nominal con diferente periodicidad:  
+        p(data-aos="fade-down") Es importante observar la periodicidad en ejemplo de conversión de tasa efectiva a tasa nominal con diferente periodicidad:  
 
     .row.justify-content-center.mb-5(data-aos="fade-left") 
       .col-lg-10
@@ -214,7 +214,7 @@
             .col-auto.bg10.p-4.text-white(data-aos="flip-down")
               h5.mb-0 (1+0,02)#[sup 12] = (1+i)#[sup 4 ] 
 
-          h5(data-aos="fade-down") En este caso se eleva a 12, porque la tasa es nominal se debe expresar en años, por otro lado, se eleva a 4, porque son 4 trimestres que componen un año, es decir, las tasa se convierten en conceptos que son comparables. El resultado de esta ecuación, da 6,12 % trimestral aproximado, pero esta tasa es efectiva equivalente a una nominal, por lo cual, para saber la nominal, es una tasa que se expresa en años y que la periodicidad, es para saber cada cuánto tiempo genera intereses, el 6,12 % equivale a efectivamente cuando entrega, por ende, si se multiplica por 4 (cantidad de trimestres que componen un año), la tasa nominal trimestral, es del 24,48 %.  
+          h5(data-aos="fade-down") En este caso se eleva a 12, porque la tasa nominal se debe expresar en años, por otro lado, se eleva a 4, porque son 4 trimestres que componen un año, es decir, las tasas se convierten en conceptos que son comparables. El resultado de esta ecuación, da 6,12 % trimestral aproximado, pero esta tasa es efectiva equivalente a una nominal, por lo cual, para saber la nominal, es una tasa que se expresa en años y que la periodicidad, es para saber cada cuánto tiempo genera intereses, el 6,12 % equivale a efectivamente cuando entrega, por ende, si se multiplica por 4 (cantidad de trimestres que componen un año), la tasa nominal trimestral, es del 24,48 %.  
 
     p(data-aos="fade-down") La tasa nominal se debe multiplicar por la tasa que se quiere convertir por el número de periodos en los que se puede pagar en un año. Estos períodos son:   
 
@@ -281,7 +281,7 @@
             .col-auto.bg10.p-4.text-white(data-aos="flip-down")
               h5.mb-0 (1+0,02)#[sup 12] = (1+i)#[sup 4 ] 
 
-          h5(data-aos="fade-down") El desarrollo da como resultado que la tasa efectiva es 6,15 % semestral efectivo, para saber tasa bimensual, se debe dividir en 3 (dado que un semestre está compuesto por tres bimestres), dando como resultado que la tasa efectiva bimensual, es de 2,05 %. 
+          h5(data-aos="fade-down") El desarrollo da como resultado que la tasa efectiva es 6,15 % semestral efectivo, para saber la tasa bimensual, se debe dividir en 3 (dado que un semestre está compuesto por tres bimestres), dando como resultado que la tasa efectiva bimensual, es de 2,05 %. 
 
     p(data-aos="fade-down") Para ampliar la información, lo invitamos a consultar el capítulo 1 del libro #[b Matemáticas financieras], el cual se encuentra en el material complementario.                  
 </template>

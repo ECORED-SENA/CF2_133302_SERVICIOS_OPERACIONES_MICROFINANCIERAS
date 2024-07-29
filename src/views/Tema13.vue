@@ -81,7 +81,7 @@
               .row.justify-content-center
                 .col-lg-8
                   h5(data-aos="fade-left") Sentar bases
-                  p(data-aos="fade-down") Conocer y analizar las características y el potencial del producto o productos que se ofrece, identificar cuál es nuestro público objetivo, muy importante, analizar a los competidores y lo que ellos ofrecen.  
+                  p(data-aos="fade-down") Conocer y analizar las características y el potencial del producto o productos que se ofrecen. Identificar cuál es nuestro público objetivo, muy importante, analizar a los competidores y lo que ellos ofrecen.  
                 .col-lg-auto
                   img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/140.svg', alt='')      
 

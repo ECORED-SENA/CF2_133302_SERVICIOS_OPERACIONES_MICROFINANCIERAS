@@ -45,7 +45,7 @@
           ul.lista-ul.fa-ul.mb-0
             li 
               i.fas.fa-check-circle.color2
-              span #[b Monto:] créditos solo a dueños de negocio desde $1.000.000 hasta 25 o 120 salarios mínimos legales vigentes.
+              span #[b Monto:] créditos solo a dueños de negocios desde $1.000.000 hasta 25 o 120 salarios mínimos legales vigentes.
             li 
               i.fas.fa-check-circle.color2
               span #[b Plazos:] entre 6 a 24 meses.
@@ -63,7 +63,7 @@
               span #[b Características del negocio:] este no puede tener más de 10 trabajadores; en activos totales el valor debe ser inferior a 500 salarios mínimos mensuales legales vigentes, unas ventas anuales máximas de 800.000.000 de pesos colombianos.
             li 
               i.fas.fa-check-circle.color2
-              span Mirar clasificación y preguntar microfinancieras.
+              span Mirar clasificación y preguntar a microfinancieras.
             li 
               i.fas.fa-check-circle.color2
               span #[b Antigüedad del negocio:] mínimo 1 año en el lugar.

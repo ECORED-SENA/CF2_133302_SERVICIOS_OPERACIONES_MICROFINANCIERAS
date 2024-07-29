@@ -155,7 +155,7 @@
                 .row.justify-content-center.mb-3
                   .col-auto.bg10.px-2.text-white
                     h5.mb-0 Manual de actividad económica 
-                p.mb-0 Dependiendo la actividad económica de la empresa podrán existir de producción y de compras.
+                p.mb-0 Dependiendo de la actividad económica de la empresa, podrán existir de producción y de compras.
 
           .col-lg-8 
             .row.justify-content-center.my-5

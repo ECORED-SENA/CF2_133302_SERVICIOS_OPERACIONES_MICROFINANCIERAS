@@ -195,7 +195,7 @@
       .col-lg-4.my-3
         img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/175.svg', alt='')             
 
-    p(data-aos="fade-down") El ahorro tienes dos tipos, los cuales se presentan a continuación:
+    p(data-aos="fade-down") El ahorro tiene dos tipos, los cuales se presentan a continuación:
 
     .row.justify-content-center.mb-5 
       .col-lg-6.my-3(data-aos="zoom-in")
@@ -395,15 +395,15 @@
                   ul.lista-ul.fa-ul.mb-0
                     li 
                       i.fas.fa-check-circle.color2
-                      span #[b Oficinas bancarias:] las entidades financieras cuentan con una amplia red de oficinas ubicadas en diferentes ciudades y municipios, inclusive a nivel mundial. Allí pueden realizarse diferentes transacciones y operaciones como consignaciones, retiros, pagos, transferencias entre otros.
+                      span #[b Oficinas bancarias:] las entidades financieras cuentan con una amplia red de oficinas ubicadas en diferentes ciudades y municipios, inclusive a nivel mundial. Allí pueden realizarse diferentes transacciones y operaciones como consignaciones, retiros, pagos, transferencias, entre otros.
 
                     li 
                       i.fas.fa-check-circle.color2
-                      span #[b Cajeros automáticos:] a través de esos canales se pueden realizar retiros, pagos y transferencias, avances, etc., en su gran mayoría no tienen restricción de horario y tiene límites en sus montos diarios.
+                      span #[b Cajeros automáticos:] a través de esos canales se pueden realizar retiros, pagos y transferencias, avances, etc., en su gran mayoría no tienen restricción de horario y tienen límites en sus montos diarios.
 
                     li 
                       i.fas.fa-check-circle.color2
-                      span #[b Datáfonos:] son terminales instalados en diferentes establecimientos de comercio, los cuales permiten transacciones con sus clientes, mediante el uso de tarjetas crédito y débito.
+                      span #[b Datáfonos:] son terminales instalados en diferentes establecimientos de comercio, los cuales permiten transacciones con sus clientes, mediante el uso de tarjetas de crédito y débito.
 
                     li 
                       i.fas.fa-check-circle.color2
@@ -416,7 +416,7 @@
                   ul.lista-ul.fa-ul.mb-0
                     li 
                       i.fas.fa-check-circle.color2
-                      span #[b Línea telefónica:] servicio de las entidades financieras, las cuales funcionas 24 horas al día, los 365 días del año, sirven para consultas o realizar algunas transacciones como bloqueos, pagos, transferencias, solicitud de extractos entre otros.
+                      span #[b Línea telefónica:] servicio de las entidades financieras, las cuales funcionan 24 horas al día, los 365 días del año, sirven para consultas o realizar algunas transacciones como bloqueos, pagos, transferencias, solicitud de extractos, entre otros.
 
                     li 
                       i.fas.fa-check-circle.color2
@@ -452,7 +452,7 @@
                       span.text-white Invertir o aprovechar una oportunidad de negocio.
                     li 
                       i.fas.fa-check-circle.color2
-                      span.text-white Gastar, si las personas no han ahorrado lo suficiente, deben acudir al préstamo para suplir sus necesidades o gusto.
+                      span.text-white Gastar, si las personas no han ahorrado lo suficiente, deben acudir al préstamo para suplir sus necesidades o gustos.
                     li 
                       i.fas.fa-check-circle.color2
                       span.text-white Solucionar emergencias.             
@@ -469,7 +469,7 @@
                       span.text-white Calcular la capacidad de pago antes de tomar el crédito.
                     li 
                       i.fas.fa-check-circle.color2
-                      span.text-white Averiguar todos los costos y compromisos que se va a asumir.
+                      span.text-white Averiguar todos los costos y compromisos que se van a asumir.
                     li 
                       i.fas.fa-check-circle.color2
                       span.text-white Usar el dinero exclusivamente para el objetivo que se solicitó.

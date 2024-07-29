@@ -94,7 +94,7 @@
                     img.img-mov(data-aos="zoom-in")(src='@/assets/curso/temas/88.png', alt='')             
                 .col.p-0
                   .bg8.p-3.h-100.j 
-                    p(data-aos="fade-down").mb-0 De acuerdo con el Artículo 14 de la Ley 1266 de 2008, en el historial de crédito se reporta la información positiva y negativa del titular. Por información positiva debe entenderse aquella que evidencia el buen comportamiento de pago del titular, es decir, cuando el titular cumple la obligación en el tiempo y forma debida. Por otra parte, el reporte de información negativa refleja el estado de mora en las cuotas u obligaciones del titular cuando no se cumplen en el tiempo y forma de pago debida.       
+                    p(data-aos="fade-down").mb-0 De acuerdo con el artículo 14 de la Ley 1266 de 2008, en el historial de crédito se reporta la información positiva y negativa del titular. Por información positiva debe entenderse aquella que evidencia el buen comportamiento de pago del titular, es decir, cuando el titular cumple la obligación en el tiempo y forma debida. Por otra parte, el reporte de información negativa refleja el estado de mora en las cuotas u obligaciones del titular cuando no se cumplen en el tiempo y forma de pago debida.       
 
     .row.justify-content-center.bg10.mb-5
       .col-lg-auto.p-0

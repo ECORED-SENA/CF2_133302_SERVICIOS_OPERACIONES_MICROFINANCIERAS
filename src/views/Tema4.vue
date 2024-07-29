@@ -77,7 +77,7 @@
             .row.justify-content-center.mb-3.px-3
               .col-auto.bg10.px-2.text-white.text-center
                 h5.mb-0 Autocontrol emocional
-            p.mb-0 Capacidad para manejar las emociones de forma apropiada, tienendo buenas estrategias de afrontamiento a situaciones estresantes.    
+            p.mb-0 Capacidad para manejar las emociones de forma apropiada, teniendo buenas estrategias de afrontamiento a situaciones estresantes.    
       .col-md-6.col-lg-3.mb-5.mb-lg-0(data-aos="fade-right")
         .tarjeta-avatar
           img.img-a.img-t(src='@/assets/curso/temas/36.svg' alt='')
@@ -154,7 +154,7 @@
                       img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/45.svg', alt='')                                  
                     .col
                       h5(data-aos="fade-down") Optimismo
-                      p(data-aos="fade-down") Tener fuerte expectativa que en general, las cosas irán bien.
+                      p(data-aos="fade-down") Tener fuerte expectativa de que, en general, las cosas irán bien.
 
     Separador 
     #t_4_2.titulo-segundo.color-acento-contenido(data-aos="zoom-in-left")
@@ -257,7 +257,7 @@
             .row.justify-content-center.mb-3.px-3
               .col-auto.bg10.px-2.text-white.text-center
                 h5.mb-0 Lenguaje kinésico
-            p.mb-0 Son los gestos, movimientos del cuerpo, postura del mismo y las expresiones faciales que utilizan los hablantes, sean conscientes o inconscientes.
+            p.mb-0 Son los gestos, movimientos del cuerpo, la postura del mismo y las expresiones faciales que utilizan los hablantes, sean conscientes o inconscientes.
       .col-md-6.col-lg-3.mb-5.mb-lg-0(data-aos="fade-right")
         .tarjeta-avatar
           img.img-a.img-t(src='@/assets/curso/temas/55.png' alt='')

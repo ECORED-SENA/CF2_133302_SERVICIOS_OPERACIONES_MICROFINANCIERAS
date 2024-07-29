@@ -191,7 +191,7 @@
                   span Operaciones que demuestren una oscilación significativa en relación con el volumen o la frecuencia de negocios del cliente.
                 li 
                   i.fas.fa-check-circle.color2
-                  span Depósitos y transferencias pequeños que de inmediato se transfieren a cuentas de otros países o regiones.
+                  span Depósitos y transferencias pequeñas que de inmediato se transfieren a cuentas de otros países o regiones.
                 li 
                   i.fas.fa-check-circle.color2
                   span Operaciones que evidencian un cambio repentino y objetivamente injustificado en comparación con el histórico del cliente.

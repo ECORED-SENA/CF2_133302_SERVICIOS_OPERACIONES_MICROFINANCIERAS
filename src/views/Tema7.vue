@@ -68,7 +68,7 @@
             .row.justify-content-center.mb-3
               .col-auto.bg10.px-2.text-white
                 h5.mb-0 El sitio de venta
-            p.mb-0 Es importante el sitio donde se desarrolle el e-commerce, por ejemplo, espacios como Buscapé, Mercado Lie o Qué Barato, para vender productos.
+            p.mb-0 Es importante el sitio donde se desarrolle el #[i e-commerce], por ejemplo, espacios como Buscapé, Mercado Libre o Qué Barato, para vender productos.
 
           .tarjeta.bgcard.ts.h-100.p-4
             .row.justify-content-center.mb-3
