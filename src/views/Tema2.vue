@@ -87,7 +87,7 @@
     TabsA.color-acento-botones.mb-5(data-aos="fade-right")
       .tarjeta.color-acento-botones--borde.p-4(titulo="Microcrédito") 
         img.img-t.mb-4(src='@/assets/curso/temas/10.svg', alt='') 
-        h5 El microcrédito
+        h5 Microcrédito
         ul.lista-ul.fa-ul
           li 
             i.fas.fa-check-circle.color2
@@ -310,7 +310,7 @@
           .col-lg-auto
             img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/19.png', alt='')         
           .col
-            p(data-aos="fade-down").mb-0 Para ampliar la información, lo invitamos a consultar el capítulo 3 del libro Manual de productos, servicios y activos financieros, el cual se encuentra en el material complementario.            
+            p(data-aos="fade-down").mb-0 Para ampliar la información, lo invitamos a consultar el capítulo 3 del libro Manual productos, servicios y activos financieros, el cual se encuentra en el material complementario.            
 </template>
 
 <script>

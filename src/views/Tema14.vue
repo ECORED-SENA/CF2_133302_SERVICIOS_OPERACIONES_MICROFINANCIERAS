@@ -217,7 +217,7 @@
               i.fas.fa-check-circle.color2
               span Los ahorros grupales, como las cadenas y las natilleras, propician espacios para compartir y disfrutar en grupo, la disciplina, la vigilancia y el apoyo entre sus miembros.  
 
-          h5.mb-3 Ventajas: Riesgos y desventajas para su dinero:
+          h5.mb-3 Riesgos y desventajas para su dinero:
           ul.lista-ul.fa-ul.mb-4
             li 
               i.fas.fa-check-circle.color2
@@ -280,7 +280,7 @@
 
     Separador 
     #t_14_3.titulo-segundo.color-acento-contenido(data-aos="zoom-in-left")
-      h2 14.3 Inversión
+      h2 14.3 Inclusión y canales transaccionales
 
     p(data-aos="fade-down") Una inversión es el dinero que sale de nuestro bolsillo con el fin de multiplicarse a través de algunos mecanismos que ofrece el sector real o financiero.
 
@@ -431,7 +431,7 @@
 
     Separador 
     #t_14_5.titulo-segundo.color-acento-contenido(data-aos="zoom-in-left")
-      h2 14.5 Crédito
+      h2 14.5 Manejo de crédito
 
     p(data-aos="fade-down") Crédito o préstamo es el dinero que una persona, cooperativa o entidad financiera, entre otros, le otorga en el presente con el compromiso de devolver estos recursos en el futuro, bien sea a través del pago de cuotas o en un solo pago, junto con un interés y otros cobros asociados.
 

@@ -11,7 +11,7 @@
       .col-lg-9.my-3
         p(data-aos="fade-down") Se entiende por la capacidad de reconocer nuestros propios sentimientos y los de los demás, de motivarnos y de manejar adecuadamente las relaciones. 
         .bg1.p-3.mb-4(data-aos="fade-left")  
-          h5.mb-0(data-aos="fade-down") Dentro de la empresa ,el colaborador experimenta diferentes emociones, y son precisamente estas habilidades blandas las más importantes en el mundo empresarial actual.
+          h5.mb-0(data-aos="fade-down") Dentro de la empresa, el colaborador experimenta diferentes emociones, y son precisamente estas habilidades blandas las más importantes en el mundo empresarial actual.
         p(data-aos="fade-down") La inteligencia emocional como gran objeto de estudio en el presente siglo, tiene la virtud de trabajar en el conocimiento y entendimiento de los sentimientos, la razón y las emociones, como se evidencia a continuación:                 
       .col-lg-3.my-3
         img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/33.png', alt='')
@@ -50,7 +50,7 @@
               .bloque-texto-d__autor 
                 .h5.mb-0 (Goleman, 1997)   
 
-    p(data-aos="fade-down") La idea es identificar las propias emociones y regularlas de forma adecuada., lo cual consta de algunos componentes:  
+    p(data-aos="fade-down") La idea es identificar las propias emociones y regularlas de forma adecuada, lo cual consta de algunos componentes:  
 
     .row.mb-5
       .col-md-6.col-lg-3.mb-5.mb-lg-0(data-aos="fade-left")

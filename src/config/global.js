@@ -434,9 +434,7 @@ export default {
   referencias: [
     {
       referencia:
-        'Alarcón, D. (2015). La gestión de la información en la sociedad abierta. Dextra Editorial. ',
-      link:
-        'https://elibro-net.bdigital.sena.edu.co/es/lc/senavirtual/titulos/122300 ',
+        'Alarcón, D. (2015). La gestión de la información en la sociedad abierta. Dextra Editorial.',
     },
     {
       referencia:
@@ -452,15 +450,14 @@ export default {
     {
       referencia: 'Aristóteles (349 a.C.) Ética a Nicómaco. ',
       link:
-        'http://www.ataun.eus/BIBLIOTECAGRATUITA/Cl%C3%A1sicos%20en%20Espa%C3%B1ol/Arist%C3%B3teles/%C3%89tica%20a%20Nic%C3%B3maco.pdf ',
+        'https://bioetica.colmed5.org.ar/wp-content/uploads/2019/11/%C3%89tica-a-Nic%C3%B3maco-Arist%C3%B3teles.pdf',
     },
     {
       referencia: 'Avalos, M. (2003). Matemáticas Financieras. México: ECAFSA.',
     },
     {
       referencia: 'Banco Caja Social (s. F.). CDT Tasa Variable. ',
-      link:
-        'https://www.bancocajasocial.com/portalserver/bcs-public/inicio/pequenas-empresas/invierta-con-nosotros/cdt-tasa-variable-2 ',
+      link: 'https://www.bancocajasocial.com/inversion/cdt-tasa-variable/',
     },
     {
       referencia:
@@ -485,12 +482,6 @@ export default {
         'Chaparro, C. (2013). Manual productos, servicios y activos financieros. Editorial CEP, S.L. ',
       link:
         'https://elibro-net.bdigital.sena.edu.co/es/lc/senavirtual/titulos/50720 ',
-    },
-    {
-      referencia:
-        'Colegio Agustiniano (2016). Instructivo para generar recibo de pago y pagos a través de Internet (PSE). ',
-      link:
-        'http://www.agustinianofloridablanca.edu.co/pdf/Instructivo_pagos_en_linea.pdf ',
     },
     {
       referencia:
@@ -535,13 +526,7 @@ export default {
     },
     {
       referencia:
-        'Martínez Guillén. (2014). Manual básico de protocolo empresarial y social. Ediciones Díaz de Santos. ',
-      link:
-        'https://elibro-net.bdigital.sena.edu.co/es/lc/senavirtual/titulos/62838 ',
-    },
-    {
-      referencia: 'PSE (2018). ¿Cómo Funciona? ',
-      link: 'https://www.pse.com.co/como-funciona ',
+        'Martínez Guillén. (2014). Manual básico de protocolo empresarial y social. Ediciones Díaz de Santos.',
     },
     {
       referencia: 'Pucheu, (2014). Desarrollo y eficacia organizacional. ',
@@ -572,8 +557,9 @@ export default {
     },
     {
       referencia:
-        'Superintendencia Financiera de Colombia (1995). Capítulo XXIII Reglas relativas a la administración del riesgo operativo. ',
-      link: 'https://www.notinet.com.co/codigos/capitulos.php?id=4742 ',
+        'Fasecolda. (s.f.). Capítulo 12 Sistema de administración de riesgo operativo (SARO). ',
+      link:
+        'https://publicaciones.fasecolda.com/regimen-de-seguros/chapter/p2-c12/',
     },
   ],
   creditos: [

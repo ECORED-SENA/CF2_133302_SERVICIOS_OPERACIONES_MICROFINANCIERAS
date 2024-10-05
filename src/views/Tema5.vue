@@ -46,7 +46,7 @@
             .row.justify-content-center.mb-3
               .col-auto.bg10.px-2.text-white
                 h5.mb-0 Información privada 
-            p.mb-0 Es el tipo de información donde se prohibe estrictamente su publicación al público en general, porque su contenido puede llegar a afectar la intimidad de una persona.
+            p.mb-0 Es el tipo de información donde se prohíbe estrictamente su publicación al público en general, porque su contenido puede llegar a afectar la intimidad de una persona.
 
           .tarjeta.bgcard.ts.h-100.p-4
             .row.justify-content-center.mb-3

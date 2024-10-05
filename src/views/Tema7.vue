@@ -290,7 +290,7 @@
                     .list__item__icon
                       img(src='@/assets/curso/temas/icon.svg', alt='')
                   .list__txt.bgicon.p-0.px-4.text-white
-                    h3.mb-0 #[b.t3 Cómo evaluar] la competencia? 
+                    h3.mb-0 #[b.t3 ¿Cómo evaluar] la competencia? 
 
             p(data-aos="fade-down") Para ello, se sugieren tres fuentes de información:  
 

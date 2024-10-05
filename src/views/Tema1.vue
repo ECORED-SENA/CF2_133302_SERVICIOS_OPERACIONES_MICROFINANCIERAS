@@ -59,7 +59,7 @@
           .col-lg-auto.my-3
             img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/8.png', alt='')         
           .col.my-3
-            h5(data-aos="fade-down").mb-0 Indica la división de un área geográfica en sectores homogéneos, conforme a ciertos criterios, por ejemplo, las empresas pueden dividir los territorios donde tienen influencia de clientes por zonas para mayor control de ventas, y asesores que atiendan dichos clientes, o por cualquier otro aspecto que la empresa considere.       
+            h5(data-aos="fade-down").mb-0 En cuanto a las entidades microfinancieras, zonifican las áreas para asignación de asesores de crédito en determinados lugares, así tendrán claro a qué clientes se van a dirigir conociendo las características de la zona, qué tipo de mercado se encuentra allí, teniendo una asesoría personalizada que genere confianza con los clientes. Si al asesor de microcrédito le referencian un cliente que se encuentra en otra zona que no es la de él, deberá entregarlo al compañero asesor que tenga asignada la zona donde se encuentra dicho cliente.     
                
       .col-lg-3.my-3
         img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/7.png', alt='')             

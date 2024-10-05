@@ -12,7 +12,7 @@
       .col-lg-4.my-3
         img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/82.png', alt='')      
       .col-lg-8.my-3
-        p(data-aos="fade-down") Estas entidades son sociedades o agremiaciones de carácter privado en las cuales se registra el comportamiento crediticio, financiero y comercial de las personas que celebren operaciones con entida des financieras, cooperativas y empresas del sector real.
+        p(data-aos="fade-down") Estas entidades son sociedades o agremiaciones de carácter privado en las cuales se registra el comportamiento crediticio, financiero y comercial de las personas que celebren operaciones con entidades financieras, cooperativas y empresas del sector real.
         .row.justify-content-center.mb-4
           .col-lg-auto.p-0
             .bg13.p-3.h-100
