@@ -438,8 +438,7 @@ export default {
     },
     {
       referencia:
-        'Alonso & Berggrun (2015). Introducción al análisis de riesgo financiero. ',
-      link: 'http://www.ebooks7-24.com.bdigital.sena.edu.co/?il=3224',
+        'Alonso & Berggrun (2015). Introducción al análisis de riesgo financiero.',
     },
     {
       referencia:

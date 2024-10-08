@@ -280,7 +280,7 @@
 
     Separador 
     #t_14_3.titulo-segundo.color-acento-contenido(data-aos="zoom-in-left")
-      h2 14.3 Inclusión y canales transaccionales
+      h2 14.3 Inversión 
 
     p(data-aos="fade-down") Una inversión es el dinero que sale de nuestro bolsillo con el fin de multiplicarse a través de algunos mecanismos que ofrece el sector real o financiero.
 
@@ -376,8 +376,8 @@
                 img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/191.png', alt='') 
 
     Separador 
-    #t_14_3.titulo-segundo.color-acento-contenido(data-aos="zoom-in-left")
-      h2 14.3 Inversión
+    #t_14_4.titulo-segundo.color-acento-contenido(data-aos="zoom-in-left")
+      h2 14.4 Inclusión y canales transaccionales
 
     p(data-aos="fade-down") Son los medios por los cuales las personas realizan transacciones financieras, estos pueden ser:
 
